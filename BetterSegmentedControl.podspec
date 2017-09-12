@@ -8,7 +8,7 @@ DESC
 s.homepage         = "https://github.com/gmarm/BetterSegmentedControl"
 s.license          = 'MIT'
 s.author           = { "George Marmaridis" => "gmarmas@gmail.com" }
-s.source           = { :git => "https://github.com/gmarm/BetterSegmentedControl.git", :tag => "0.8" }
+s.source           = { :git => "https://github.com/hammadzz/BetterSegmentedControl.git" }
 s.social_media_url = 'https://twitter.com/gmarmas'
 s.platform     = :ios, '8.0'
 s.requires_arc = true
